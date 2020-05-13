@@ -1,11 +1,12 @@
 # Color Activity - Using Multiple Languages
 
-CIS 3515 Introduction to Mobile Application Development - Assignment 5
+**CIS 3515 Introduction to Mobile Application Development - Assignment 5**
 
 This Android application is the same as the Assignment 4, Color Activity - Part 2 (Using Multiple Activities), but 
 with an added feature. Now the applications adds localization with a Spanish translation. 
 
 Current Features of Application:
+<br />
 This Android application is a 2-activity application along with a custom adapter. The application allows the user to 
 select a color from a Spinner on one activity, and once selected, launch the second activity and set the background 
 of the new activity’s layout to the selected color. The first activity is called Pallete Activity and the second 
@@ -14,6 +15,7 @@ activity is called Canvas Activity (this is the new activity that opens when a c
 and a signed APK has been generate that is ready to be distributed.
 
 New Feature:
+<br />
 Now the application can be translated into Spanish if the user would like. To do this, the user can go to Settings ->
 System -> Languages & input -> Languages -> and drag Espanol at the number 1 position with English being the second.
 Once the user does this and goes back to the application, the Spinner will display all color names in Spanish. Also if
