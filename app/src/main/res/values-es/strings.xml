@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ColorActivity</string>
+    <string-array name="Colors">
+        <item>Elige un Color</item>
+        <item>Rojo</item>
+        <item>Anaranjada</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Verde Lima</item>
+        <item>Azul</item>
+        <item>Morado</item>
+        <item>Cian</item>
+        <item>Azul Marino</item>
+        <item>Gris</item>
+    </string-array>
+</resources>
